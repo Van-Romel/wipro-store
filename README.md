@@ -14,8 +14,8 @@
 
 | Imagens conceituais           | Projeto modelo dos professores   |
 |-------------------------------|----------------------------------|
-| ![image](Menu)                | ![image (1)](Produto adicionado) |
-| ![image (2)](Forma Pagamento) | ![image (3)](Valor Final)        |
+| ![image](https://user-images.githubusercontent.com/62116170/161855103-9464995e-1a6c-4540-bc82-71112e8ace68.png)                | ![image (1)](https://user-images.githubusercontent.com/62116170/161855191-634bac05-1748-47a7-b2c0-164211bea60a.png) |
+| ![image (2)](https://user-images.githubusercontent.com/62116170/161855316-a26e2a27-0375-4140-8356-4c8761d8372a.png) | ![image (3)](https://user-images.githubusercontent.com/62116170/161855443-6d8d9a25-0b21-4ffa-b02f-83069f9ad7bc.png)        |
 
 ## Resumo
 - [x] Vamos buscar produtos por código
@@ -26,12 +26,12 @@
 ## Requisitos
 
 ### ESTOQUE
-![image](Estoque)
+![image](https://user-images.githubusercontent.com/62116170/161855608-896cdeb3-9d15-4955-a3ca-d369eafa4edc.png)
 - [x] A nossa loja deve conter estoque;
-- [ ] Caso produto esteja indisponível deve retornar a mensagem para o cliente “Produto indisponível!”;
+- [x] Caso produto esteja indisponível deve retornar a mensagem para o cliente “Produto indisponível!”;
 
 ### FORMAS DE PAGAMENTO
-![image](Formas de Pagamento)
+![image](https://user-images.githubusercontent.com/62116170/161855731-f0cbe49d-137c-45e3-a154-a960408e8343.png)
 - [x] Deverá ter 3 formas de pagamento;
 - [x] À vista (dinheiro, pix ou cartão MasterdCard) tem 20% de desconto;
 - [x] À vista no crédito tem 10% de desconto;
@@ -46,9 +46,10 @@
 - [x] O PROGRAMA TEM QUE RODAR NO CONSOLE.
 
 # 
- Link para outra versão do projeto equipe: https://github.com/jefersonrgomes/Java-Wipro-Bootcamp/tree/master/src/main/java/aula03/atividades
+ Link para outra versão do projeto equipe: 
+ https://github.com/jefersonrgomes/Java-Wipro-Bootcamp/tree/master/src/main/java/aula03/atividades
 #
 
 By Gama Academy
 </br>
-![image](Gama Academy)
+![image](https://user-images.githubusercontent.com/62116170/161855817-ce679912-87ab-44a3-8b2f-d1c3d0415708.png)
