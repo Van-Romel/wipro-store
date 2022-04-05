@@ -14,8 +14,8 @@
 
 | Imagens conceituais           | Projeto modelo dos professores   |
 |-------------------------------|----------------------------------|
-| ![image](https://user-images.githubusercontent.com/62116170/161855103-9464995e-1a6c-4540-bc82-71112e8ace68.png)                | ![image (1)](https://user-images.githubusercontent.com/62116170/161855191-634bac05-1748-47a7-b2c0-164211bea60a.png) |
-| ![image (2)](https://user-images.githubusercontent.com/62116170/161855316-a26e2a27-0375-4140-8356-4c8761d8372a.png) | ![image (3)](https://user-images.githubusercontent.com/62116170/161855443-6d8d9a25-0b21-4ffa-b02f-83069f9ad7bc.png)        |
+| ![image](https://user-images.githubusercontent.com/62116170/161856902-6c617bee-664b-4516-a1ce-30d1a4f9d7ed.png) | ![image](https://user-images.githubusercontent.com/62116170/161856946-ba16ab9e-86aa-4ea2-a849-5b3e0113d8cc.png) |
+| ![image](https://user-images.githubusercontent.com/62116170/161856970-f501c589-1cd1-4cb9-8939-74d14c846116.png) | ![image](https://user-images.githubusercontent.com/62116170/161857365-b743b7d7-eb35-4f65-8647-acc4aeb9dd04.png) |
 
 ## Resumo
 - [x] Vamos buscar produtos por código
