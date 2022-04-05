@@ -25,7 +25,12 @@ public class Store {
             System.out.print("Digite o código do produto desejado: ");
             cod = validateInteger(sc);
             if (cod == null || cod < 1 || cod > 10 || products.get(cod - 1).getQuantity() <= 0) {
-                System.out.print("\nCódigo inválido!\n");
+                if (cod == null)
+                    System.out.print("\nVocê inseriu um valor invalido.\n");
+                else if (cod < 1 || cod > 10)
+                    System.out.print("\nCódigo de produto inexistente!\n");
+                else
+                    System.out.print("\nProduto indisponível\n");
                 continue;
             }
             System.out.print("Insira a quantidade desejada do produto: ");
